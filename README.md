@@ -12,3 +12,9 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/creator-kit-r
   
 Unity m_EditorVersion:  2021.1.15f1  
   
+KEYBOARD:  
+UP: up  
+DOWN: down  
+LEFT: left  
+RIGHT: right  
+ACTION: space  
