@@ -10,7 +10,7 @@ Free Assets downloaded from
   
 https://assetstore.unity.com/packages/essentials/tutorial-projects/creator-kit-rpg-149309  
   
-Unity m_EditorVersion:  2021.1.20f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
 KEYBOARD:  
 UP: up  
